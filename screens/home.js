@@ -22,7 +22,7 @@ export default function home({ navigation }) {
         {
             title: "Zelda, Breath of Fresh Air",
             rating: 5,
-            body: "lorem ipsum",
+            body: "Nunca joguei",
             key: "1"
         },
         {
